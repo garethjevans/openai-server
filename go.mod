@@ -1,4 +1,4 @@
-module github.com/venjiang/openai-server
+module github.com/garethjevans/openai-server
 
 go 1.18
 
