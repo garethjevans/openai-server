@@ -44,6 +44,7 @@ func Run() error {
 	v1 := e.Group("/v1")
 	v1.POST("/completions", CompletionHandler)
 	v1.POST("/chat/completions", ChatCompletionHandler)
+	v1.POST("/embeddings", EmbeddingHandler)
 	return e.Run()
 }
 

@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/venjiang/openai-server/server"
+	"github.com/garethjevans/openai-server/server"
 )
 
 func main() {

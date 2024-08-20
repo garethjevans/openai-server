@@ -7,4 +7,5 @@ a simple [OpenAI](https://openai.com) mock server
 
 - [x] Completions `/v1/completions`
 - [x] Chat `/v1/chat/completions`
+- [x] Embeddings `/v1/embeddings`
 
